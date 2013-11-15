@@ -1,0 +1,5 @@
+hello	world
+hola	mundo
+Maradona	Messi
+River	Boca
+blanco	negro
